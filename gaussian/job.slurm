@@ -7,7 +7,7 @@
 #SBATCH --time=00:45:00          # total run time limit (HH:MM:SS)
 #SBATCH --mail-type=begin        # send email when job begins
 #SBATCH --mail-type=end          # send email when job ends
-#SBATCH --mail-user=<YourNetID>@princeton.edu
+#SBATCH --mail-user=jo9693@princeton.edu
 
 module purge
 module load gaussian/g16
